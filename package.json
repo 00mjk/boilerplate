@@ -1,9 +1,14 @@
 {
-  "name": "boilerplate",
-  "version": "0.1.1",
-  "description": "boilerplate",
+  "name": "boilerplate-nextjs",
+  "version": "1.0.0",
+  "description": "boilerplate do next.js",
   "private": false,
-  "repository": "git://github.com:Pedrooliver13/Boilerplate.git",
+  "main": "src/index.js",
+  "author": "pedrooliveira",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedrooliver13/boilerplate.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
