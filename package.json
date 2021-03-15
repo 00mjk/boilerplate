@@ -1,7 +1,9 @@
 {
-  "name": "client",
-  "version": "0.1.0",
-  "private": true,
+  "name": "boilerplate",
+  "version": "0.1.1",
+  "description": "boilerplate",
+  "private": false,
+  "repository": "git://github.com:Pedrooliver13/Boilerplate.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
